@@ -1,3 +1,5 @@
+/* This section lays out the background size and color for the webpage.*/
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -7,6 +9,8 @@
 body {
     background-color: #d9dcd6;
 }
+
+/* This section lays out the format and colors for the header of the webpage.*/
 
 .header {
     padding: 20px;
@@ -40,6 +44,8 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
+
+/* This section lays out the format for the images on the webpage.*/
 
 a {
     color: #ffffff;
@@ -86,6 +92,8 @@ p {
     background-color: #2589bd;
 }
 
+/* This section is for the aside section on the webpage.*/
+
 .benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
@@ -101,6 +109,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* This section is for the main section on the webpage.*/
 
 .social-media-marketing, .online-reputation-management, .search-engine-optimization {
     margin-bottom: 20px;
@@ -119,6 +129,8 @@ p {
     margin-bottom:20px;
     font-size: 36px;
 }
+
+/* This section is for the layout and format of the footer of the webpage.*/
 
 .footer {
     padding: 30px;
